@@ -1,0 +1,4 @@
+keys.py
+chatbotvenv/
+__pycache__/
+!.gitignore
